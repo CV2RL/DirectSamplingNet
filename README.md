@@ -1,1 +1,1 @@
-# DirectSamplingnet
+# DirectSamplingNet
